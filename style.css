@@ -1,0 +1,16 @@
+body{
+    background-color:#ebf2ff;
+    font-family: 'Poppins', sans-serif;
+    font-weight:bolder;
+
+
+}
+/*taskTitle.setAttribute("contenteditable","true");
+taskDescription.setAttribute("contenteditable","true");
+taskType.setAttribute("contenteditable","true");
+
+
+submitButton.removeAttribute("onclick");
+submitButton.innerHTML ="open task";
+localStorage.setItem("tasky",JSON.stringify({cards:globalStore}));
+*/
